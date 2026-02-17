@@ -41,7 +41,6 @@ alias gpumeminfo='grep -i --color memory /var/log/Xorg.0.log'
 alias xpaste="xclip -selection clipboard -t image/png -o > \"$(date +%Y-%m-%d_%T).png\""
 
 
-
 ### --------------------------------------------------------------------
 ### Terraform Aliases
 ### --------------------------------------------------------------------
