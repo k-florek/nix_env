@@ -56,6 +56,12 @@ alias gitlog="git log --simplify-by-decoration --pretty='tformat:%C(auto)%h %as%
 
 
 ### --------------------------------------------------------------------
+### Chrome Aliases
+### --------------------------------------------------------------------
+alias chromeproxy="google-chrome --user-data-dir=\"$HOME/proxy-profile\" --proxy-server=\"socks5://localhost:1080\""
+
+
+### --------------------------------------------------------------------
 ### Functions
 ### --------------------------------------------------------------------
 
