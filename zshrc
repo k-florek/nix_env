@@ -14,5 +14,8 @@ export PATH="$ORIGINAL_PATH"
 # Home bin
 export PATH=$HOME/bin:$PATH
 
+# gmount config
+export GMOUNT_CONFIG="$HOME/bin/gmount.json"
+
 ### Autogen Content Below ###
 
